@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+<head><title>table </title><head>
+<body>
+<h1>Table</h1>
+<table border="1" cellpadding="5" cellspacing="5">
+     <caption> Employee information</caption>
+    <thead>
+	<tr>
+		<th>Name</th>
+		<th>Email</th>
+		<th>phone </th>
+	</tr>
+	</thead>
+	<tfoot> 
+	<tr>
+	    <td>this is the table footer</td>
+		</tr>
+		
+	</tfoot>
+		<tbody>
+		<tr>
+			 <td>Rehan</td>
+			 <td>Rehan32@gmail.com</td>
+			 <td>9168549326</td>
+		</tr>
+		<tr>
+			 <td>kaif</td>
+			 <td>kaif2@gmail.com</td>
+			 <td>9536241896</td>
+		</tr>
+		<tr>
+			 <td>tejas</td>
+			 <td>tejas2@gmail.com</td>
+			 <td>9145896256</td>
+		</tr>
+		</tbody>
+</table>
+</body>
+</html>
